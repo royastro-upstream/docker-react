@@ -16,10 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
-      </header>
-    </div>
+          Hello from Docker!
+        </a>   
+        <p>Some more texts</p>             
+      </header>      
+    </div>    
   );
 }
 
