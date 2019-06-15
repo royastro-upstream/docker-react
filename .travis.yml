@@ -9,7 +9,7 @@ script:
   - docker run royastro-upstream/docker-react npm run test
 
 deploy:
-  provider: elasticbenastalk
+  provider: elasticbeanstalk
   region: "us-east-2"
   app: "docker-react"
   env: "DockerReact-env"
