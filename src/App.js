@@ -18,7 +18,7 @@ function App() {
         >
           Hello from Docker!
         </a>   
-        <p>Some more texts</p>             
+        <p>I was changed on the feature branch</p>             
       </header>      
     </div>    
   );
